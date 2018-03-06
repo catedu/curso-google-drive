@@ -1,1 +1,1 @@
-{"plugins": ["youtube", "accordion", "image-captions"],"pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}}}
+{ "plugins": ["youtube", "accordion", "image-captions", "flex-images"], "pluginsConfig": { "image-captions": { "caption": "Imagen - _CAPTION_" } } }

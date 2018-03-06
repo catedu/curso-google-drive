@@ -1,12 +1,12 @@
 
 
-[](){#top}
+
 
 
 
 
 Introducción a Google Drive {#firstHeading .firstHeading lang="es"}
-===================================================
+
 
 
 
@@ -52,7 +52,7 @@ móvil](/Google_drive/Google_Drive_para_ordenador_y_m%C3%B3vil "Google drive/Goo
 
 \
 
-Qué es Google Drive [![Google Drive Logo](images/25px-Google_Drive_Logo.svg.png){width="25" height="22" srcset="/images/thumb/7/75/Google_Drive_Logo.svg/38px-Google_Drive_Logo.svg.png 1.5x, /images/thumb/7/75/Google_Drive_Logo.svg/50px-Google_Drive_Logo.svg.png 2x"}](/Archivo:Google_Drive_Logo.svg "Google Drive Logo"){.image}
+Qué es Google Drive ![Google Drive Logo](images/25px-Google_Drive_Logo.svg.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Es un servicio que nos permite guardar archivos en Internet
@@ -71,18 +71,18 @@ web.
 
 \
 
-<div class="eXe-iDevice objetivos"
-style="margin-left: 0px; margin-top: -30px; margin-bottom: -15px; border-style: solid; border-width:1px; border-color: #AAAAAA; padding: 1ex; background-color: #F6F9ED;">
 
 
 
-[![Icon objectives.jpg](images/Icon_objectives.jpg){width="48"
+
+
+![Icon objectives.jpg](images/Icon_objectives.jpg)
 height="48"}](/Archivo:Icon_objectives.jpg){.image}
 
 
 
 Objetivos {#objetivos style="font-size: 130%; font-weight: bolder; border: none"}
-=========================================================
+
 
 En este curso aprenderás a:
 -   Gestionar tus archivos en la nube
@@ -114,7 +114,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/80px-Google_Docs.png){width="80"
+    ![](images/80px-Google_Docs.png)
     height="80"}](/Archivo:Google_Docs.png){.image}
 
     
@@ -136,7 +136,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/80px-Google_Presentations.png){width="80"
+    ![](images/80px-Google_Presentations.png)
     height="80"}](/Archivo:Google_Presentations.png){.image}
 
     
@@ -158,7 +158,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/60px-Google_Forms.png){width="60"
+    ![](images/60px-Google_Forms.png)
     height="80"}](/Archivo:Google_Forms.png){.image}
 
     
@@ -180,7 +180,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/80px-Google_Sheets.png){width="80"
+    ![](images/80px-Google_Sheets.png)
     height="80"}](/Archivo:Google_Sheets.png){.image}
 
     
@@ -203,7 +203,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/80px-Google_Drawings.png){width="80"
+    ![](images/80px-Google_Drawings.png)
     height="80"}](/Archivo:Google_Drawings.png){.image}
 
     
@@ -224,7 +224,7 @@ aporta por defecto para tratar cada tipo de documento:
 
     
 
-    [![](images/80px-Google_My_Maps.png){width="80"
+    ![](images/80px-Google_My_Maps.png)
     height="80"}](/Archivo:Google_My_Maps.png){.image}
 
     
@@ -244,18 +244,18 @@ aporta por defecto para tratar cada tipo de documento:
 
 \
 
-<div class="eXe-iDevice Recursos de la Web"
-style="margin-left: 0px; margin-top: -30px; margin-bottom: -15px; border-style: solid; border-width:1px; border-color: #AAAAAA; padding: 1ex; background-color: #F6F9ED;">
 
 
 
-[![Icon inter.gif](images/Icon_inter.gif){width="48"
+
+
+![Icon inter.gif](images/Icon_inter.gif)
 height="48"}](/Archivo:Icon_inter.gif){.image}
 
 
 
 Recursos de la Web {#recursos-de-la-web style="font-size: 130%; font-weight: bolder; border: none;"}
-===========================================================================
+
 
 El material de este curso está desarrollado en WikiEducator e importado
 a nuestro Moodle (Aularagón).
