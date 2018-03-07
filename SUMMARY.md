@@ -6,3 +6,4 @@
 * [Creación y gestión de archivos](google-drive-creacion-y-gestion-de-archivos-en-google-drive-wikieducator.md)
 * [Compartir y colaborar](compartir-y-colaborar.md)
 
+* [Para ordenador y móvil](para-ordenador-y-movil.md)
