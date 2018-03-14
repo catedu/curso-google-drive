@@ -81,7 +81,7 @@ hoja de cálculo. Se nos abre pues un sin fin de posibilidades. ¿Quieres
 saber más?
 
 Vista resumen, individual... ¿se aceptan respuestas?
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 En la sección **Respuestas** podremos ver un **resumen** de las
 respuestas recibidas hasta el momento. Éste será el que se muestre a
@@ -111,7 +111,7 @@ cerrar el cuestionario para no recibir más repuestas deslizando el botón
 **Se aceptan respuestas**.
 
 Ver respuestas en hoja de cálculo
---------------------------------------------------------------------------------------------------------------
+
 
 En !["ver respuestas en Hoja de
 Cálculo"](images/18px-Ver_respuestas_en_Hoja_de_C%C3%A1lculo.png)

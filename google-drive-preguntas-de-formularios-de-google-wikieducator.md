@@ -88,7 +88,7 @@ desplegable para cambiar el tipo de pregunta. Vamos a ver las opciones
 avanzadas de cada una.
 
 Respuesta corta, párrafo y escala lineal
-------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -110,7 +110,7 @@ mail. Con esta opción puedes evitar que tus encuestados envíen mails sin
 respuestas numéricas fuera de rango, etc. ¿Para qué utilizarías estos
 tres tipos de pregunta?
 Selección múltiple y Desplegable
------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -155,7 +155,7 @@ podremos decir qué camino tomar.
 -   Enviar el formulario.
 
 Casillas de verificación
---------------------------------------------------------------------------------------------
+
 
 Aquí los encuestados podrán seleccionar más de una opción. En
 **Validación de datos** dispondrás de las siguientes opciones para
@@ -166,7 +166,7 @@ limitar las respuestas aceptadas:
 -   Selecciona exactamente
 
 Cuadrícula de varias opciones
-------------------------------------------------------------------------------------------------------
+
 
 Imagina que quieres evaluar de 1 a 5, siendo 1 "decepcionante" y 5
 "apasionante", la experiencia de cada alumno en su visita a las
@@ -182,7 +182,7 @@ Puedes **Exigir una respuesta por fila** y **Limitar a una respuesta por
 columna** para garantizar que las respuestas tengan sentido.
 
 Títulos, imágenes y vídeos
-------------------------------------------------------------------------------------------------------------
+
 
 Si quieres dar título y descripción a una zona del formulario, pero no
 necesitas las opciones de redireccionamiento que te ofrece la *sección*,

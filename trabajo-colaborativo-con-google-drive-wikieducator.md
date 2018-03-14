@@ -162,7 +162,7 @@ style="position: absolute;top: 1px;right: 1px;background: transparent;border: 0p
 style="color: white">edit](//es.wikieducator.org/index.php?title=Google_drive/5._Presentaciones_y_mucho_m%C3%A1s&action=edit){.external
 .text}  
 5. Presentaciones y mucho más {#presentaciones-y-mucho-más style="font-size:100%;font-weight:bold;border: none; margin: 0; padding:0; padding-bottom:.1em; color:white"}
-------------------------------------------------------------------------------------------------------
+
 
 
 

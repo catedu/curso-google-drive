@@ -83,7 +83,7 @@ de Cálculo
 
 
 Modificando el ancho y la altura de columnas, filas y celdas
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Si pasas el cursor por las letras y números de columnas y filas, verás
 que cuando te sitúas en el límite entre dos tu cursor se transforma en
@@ -136,7 +136,7 @@ esto para todo el documento seleccionando la intersección superior
 izquierda tal y como se muestra en la siguiente imagen.
 
 Añade, borra y mueve filas y columnas
-------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -175,7 +175,7 @@ sobre sus números/letras y, cuando el cursor se transforme en mano,
 arrástralas al lugar deseado.
 
 Ajustando el texto y combinando celdas
--------------------------------------------------------------------------------------------------------------------
+
 
 Siempre que una celda de texto tenga contenido demasiado largo para ser
 mostrado al completo tendrás que elegir entre dos opciones: ajustar el
@@ -194,7 +194,7 @@ Recuerda que para poder utilizar este botón debes seleccionar
 previamente las celdas a combinar o la celda a separar.
 
 Inmovilizando filas y columnas
----------------------------------------------------------------------------------------------------
+
 
 Imagina que tienes una gran cantidad de datos. Quieres avanzar por la
 hoja de cálculo sin perder de vista la primera fila, donde tienes

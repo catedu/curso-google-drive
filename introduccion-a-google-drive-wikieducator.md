@@ -53,7 +53,7 @@ móvil](/Google_drive/Google_Drive_para_ordenador_y_m%C3%B3vil "Google drive/Goo
 \
 
 Qué es Google Drive ![Google Drive Logo](images/25px-Google_Drive_Logo.svg.png)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Es un servicio que nos permite guardar archivos en Internet
 gratuitamente, así como crear nuevos documentos, editar y compartirlos

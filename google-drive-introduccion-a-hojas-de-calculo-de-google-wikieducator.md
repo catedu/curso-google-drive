@@ -102,7 +102,7 @@ que lleva detrás lo hace insostenible. Bueno, pues en este sentido y
 otros muchos, Hojas de Cálculo nos puede facilitar enormemente la tarea.
 
 La interfaz de Hojas de Cálculo
-----------------------------------------------------------------------------------------------------------
+
 
 
 
