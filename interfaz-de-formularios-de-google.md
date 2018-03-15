@@ -62,3 +62,5 @@ acceder a las siguientes opciones:
     ![Enviar formulario mediante enlace](images/Enviar_formulario_mediante_enlace.png)
     
     ![Embeber formulario](images/Embeber_formulario.png)
+
+    {% youtube %}https://www.youtube.com/watch?v=klCYOWFY83I{% endyoutube %}
