@@ -33,3 +33,5 @@ Cuando haces una presentación, no se trata de escribir en ella todo lo que vas 
 Escribe en ella lo que necesites recordar en el momento de la presentación. ¡Solo tú podrás verlo!
 
 ![Iniciar una presentación con notas del orador en Presentaciones de Google](images/Iniciar_una_presentación_con_notas_del_orador_en_Presentaciones_de_Google.png)
+
+{% youtube %}https://www.youtube.com/watch?v=2TL2BpDQiXU{% endyoutube %}

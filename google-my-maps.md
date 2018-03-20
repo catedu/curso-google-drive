@@ -42,3 +42,5 @@ En una capa que aún no tenga datos clica en *Importar*. Selcciona tu archivo .c
 ![Subir csv](images/Subir_csv_a_Google_Maps.png)
 
 ![Estilo por columna y acceso a datos](images/Estilo_por_columna_y_acceso_a_datos_en_Google_Maps.png)
+
+{% youtube %}https://www.youtube.com/watch?v=T98s0WQp7wo{% endyoutube %}
