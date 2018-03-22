@@ -28,10 +28,10 @@
 * [Ordena, filtra y colabora](colaborando-con-hojas-de-calculo-de-google.md)
 
 ## 5. Presentaciones y mucho más
-* [Creando una presentación]()
-* [Exponiendo una presentación]()
-* [My Maps]()
-* [Dibujos y más]()
+* [Creando una presentación](creando-una-presentacion.md)
+* [Exponiendo una presentación](exponer-una-presentacion-de-google.md)
+* [My Maps](google-my-maps.md)
+* [Dibujos y más](dibujos-y-mas.md)
 
 ____
 * [Créditos](crditos.md)
