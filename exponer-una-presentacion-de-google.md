@@ -11,4 +11,4 @@ Clica en *iniciar presentación con las notas del orador* y éstas se mostrarán
 
 ¿Necesitas ver las notas más grandes? Clica en +. **¡Atención!** No olvides desactivar en tu ordenador la opción *duplicar pantalla*. Si no lo haces se te verá el plumero. (Más información para [Linux](https://linuxaltrabajo.wordpress.com/2013/09/21/configurar-dos-monitores-con-escritorio-extendido), [Mac](https://bareando.wordpress.com/2008/03/03/configurar-pantallas-externas-en-mac) y [Windows](http://windows.microsoft.com/es-es/windows7/connect-to-a-projector))
 
-![Presentación de Google con notas del orador](images/Presentación_Google_con_notas_del_orador.svg)
+![Presentación de Google con notas del orador](images/presentacion_notas_orador.svg)
