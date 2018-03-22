@@ -1,6 +1,6 @@
 Documentos de Google es un procesador de texto que ofrece las opciones medias típicas de cualquier software de este tipo. Destaca, no obstante, en el ámbito colaborativo, ofreciéndonos herramientas muy potentes para el trabajo en equipo con documentos.
 
-En el [primer módulo](google-drive-creacion-y-gestion-de-archivos-en-google-drive-wikieducator.md) ya tuvimos una toma de contacto con la interfaz. A continuación, profundizaremos en las opciones propias y más características de Documentos.
+En el [primer módulo](creacion-y-gestion-de-archivos-en-google-driver.md) ya tuvimos una toma de contacto con la interfaz. A continuación, profundizaremos en las opciones propias y más características de Documentos.
 
 ## Primeros pasos
 

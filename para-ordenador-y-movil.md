@@ -54,7 +54,7 @@ conexión. También podremos pulsar en el icono
 "Acceso sin conexión".
 
 Para **encontrar archivos guardados sin conexión** accederemos al menú
-![](images/Men%C3%BA_applicaciones_Android.png) y
+![](images/Menu_applicaciones_Android.png) y
 pulsaremos en "![](images/Chincheta.png) Sin conexión".
 
 #### En iOS
