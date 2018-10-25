@@ -1,6 +1,6 @@
 # Introducción a Google Drive
 
-## Qué es Google Drive ![](images/25px-Google_Drive_Logo.svg.png)
+## Qué es Google Drive ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/25px-Google_Drive_Logo.svg.png)
 
 Es un servicio que nos permite guardar archivos en Internet
 gratuitamente, así como crear nuevos documentos, editar y compartirlos
@@ -36,6 +36,6 @@ aporta por defecto para tratar cada tipo de documento:
 
 |       [Documentos](https://www.google.es/intl/es/docs/about/)       | [Presentaciones](https://www.google.es/intl/es/slides/about/) |  [Formularios](https://www.google.es/intl/es/forms/about/)  |
 |:-------------------------------------------------------------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------:|
-|                  ![](images/80px-Google_Docs.png)                   |           ![](images/80px-Google_Presentations.png)           |              ![](images/60px-Google_Forms.png)              |
+|                  ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/80px-Google_Docs.png)                   |           ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/80px-Google_Presentations.png)           |              ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/60px-Google_Forms.png)              |
 | **[Hojas de cálculo](https://www.google.es/intl/es/sheets/about/)** |       **[Dibujos](https://docs.google.com/drawings/)**        | **[Mapas](https://www.google.com/maps/d/?hl=en_US&app=mp)** |
-|                 ![](images/80px-Google_Sheets.png)                  |             ![](images/80px-Google_Drawings.png)              |             ![](images/80px-Google_My_Maps.png)             |
+|                 ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/80px-Google_Sheets.png)                  |             ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/80px-Google_Drawings.png)              |             ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/80px-Google_My_Maps.png)             |

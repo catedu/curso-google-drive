@@ -31,21 +31,21 @@ Vamos con un ejemplo sencillo. En las celdas A1, A2 y A3 tienes losvalores 5 8 y
 -   3\*9 = 27
 -   27-A3 = 15
 
-![Ejemplo de fórmula](images/Creando_fórmulas.png)
+![Ejemplo de fórmula](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Creando_fórmulas.png)
 
 **Un consejo**: no hace falta que escribas A2 cuando te toque ponerla en la función; clica sobre la celda y se incluirá automáticamente. En la imagen de la derecha puedes ver el ejemplo sobre la propia hoja de cálculo.
 
 ## Funciones
 
-![Elementos de unafunción](images/Elementos_de_una_función.png)
+![Elementos de unafunción](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Elementos_de_una_función.png)
 
 Una función, al igual que las fórmulas, debe empezar con un signo =. Escribe después el nombre de la función y los argumentos, éstos últimos entre paréntesis. ¡Habrás creado tu primera función! Los valores o las celdas dentro de los paréntesis van separadas por *dos puntos*(:) o *punto y coma*(;).
 
-![Uso de ; y : en funciones](images/Seleccionando_celdas_en_funciones.png)
+![Uso de ; y : en funciones](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Seleccionando_celdas_en_funciones.png)
 
 -   *Dos puntos* crea una referencia a un rango de celdas. Por ejemplo, =SUM(A1:B3) sumará los datos existentes en las celdas A1,A2,A3,B1,B2 y B3.
 -   *Punto y coma* separa valores individuales, referencias y rangos de celdas. Por ejemplo, =SUM(A1:A3;C1:C3;D4;4)
 
-¿Quieres acceder a las funciones más utilizadas y muchas más? Pulsa en el botón de acceso rápido a las funciones ![Botón funciones](images/105px-Boton_funciones.png). Clicando sobre ellas las introducirás directamente en la celda. [En *Más funciones* podrás ver todas las que ofrece Hojas de Cálculo de Google.](https://support.google.com/docs/table/25273?hl=es%7C).
+¿Quieres acceder a las funciones más utilizadas y muchas más? Pulsa en el botón de acceso rápido a las funciones ![Botón funciones](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/105px-Boton_funciones.png). Clicando sobre ellas las introducirás directamente en la celda. [En *Más funciones* podrás ver todas las que ofrece Hojas de Cálculo de Google.](https://support.google.com/docs/table/25273?hl=es%7C).
 
 ¿Sabías que puedes [dar nombre a un rango deceldas](https://support.google.com/docs/answer/63175?hl=es). Si lo haces tu función =AVERAGE(B2:B26) podría quedar así =AVERAGE(Notas)* *También puedes utilizar funciones dentro de otras funciones, es decir, [funciones anidadas](https://support.google.com/docs/answer/46977?hl=es)

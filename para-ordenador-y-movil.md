@@ -48,19 +48,19 @@ Podremos tocar y mantener pulsado un archivo durante 1 o 2 segundos y
 posteriormente extender la selección añadiendo otros archivos. Si todos
 ellos son del tipo Documentos, Hojas de Cálculo o Presentaciones,
 podremos entonces pulsar en
-![](images/Chincheta.png) hacerlos accesibles sin
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Chincheta.png) hacerlos accesibles sin
 conexión. También podremos pulsar en el icono
-![](images/14px-InfoLogo.png) que aparece en la sección inferior derecha de cada archivo, y activar el
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/14px-InfoLogo.png) que aparece en la sección inferior derecha de cada archivo, y activar el
 "Acceso sin conexión".
 
 Para **encontrar archivos guardados sin conexión** accederemos al menú
-![](images/Menu_applicaciones_Android.png) y
-pulsaremos en "![](images/Chincheta.png) Sin conexión".
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Menu_applicaciones_Android.png) y
+pulsaremos en "![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Chincheta.png) Sin conexión".
 
 #### En iOS
 
 Para activar o desactivar el acceso sin conexión, pulsaremos el icono
-![](images/MenIOS.png) que hay junto a cada
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/MenIOS.png) que hay junto a cada
 archivo y después "Descargar y mantener sincronizado".
 
 #### En Ordenador
@@ -71,7 +71,7 @@ accedemos a nuestros documentos de Drive a través de Google Chrome. No
 está disponible en otros navegadores.
 
 -   Una vez en tu unidad Drive, clica en la ruleta de configuración
-    ![](images/Ruleta_Configuracion.png)
+    ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Ruleta_Configuracion.png)
 -   Selecciona "Configuración".
 -   Marca la casilla "Sincronizar los archivos de Documentos, Hojas de
     Cálculo, Presentaciones y Dibujos de Google con este ordenador para
