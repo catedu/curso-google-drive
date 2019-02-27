@@ -1,1 +1,1 @@
-{ "plugins": ["youtube", "accordion", "image-captions", "flex-images"], "pluginsConfig": { "image-captions": { "caption": "Imagen - _CAPTION_" } } }
+{"plugins": ["youtube", "accordion", "image-captions", "flex-images", "edit-link", "githubcontributors"], "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "edit-link": {"base": "https://github.com/catedu/curso-google-drive/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "curso-google-drive"}}}
