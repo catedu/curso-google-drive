@@ -43,4 +43,3 @@ correspondiente.
 
 ![Generando un índice en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Generando_un_índice_en_Documentos_de_Google.png)
 
-{% youtube %}https://www.youtube.com/watch?v=pmy8OmviJO8{% endyoutube %}
