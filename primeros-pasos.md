@@ -33,4 +33,3 @@ Una panorámica del entorno de trabajo en Google Drive
     **"i"**.
 5.  Nos dice la **ruta** en la que está alojado el archivo.
 
-{% youtube %}https://www.youtube.com/watch?v=EfBzfHZTm10{% endyoutube %}
