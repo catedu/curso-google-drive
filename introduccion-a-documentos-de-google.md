@@ -46,4 +46,3 @@ correspondiente o en *Archivo* - *Imprimir*. También puedes utilizar el
 atajo de teclado Ctrl+p. Podrás imprimir, descargar como .pdf o elegir
 una ubicación dentro de tu Drive o el de otra cuenta para guardarlo.
 
-{% youtube %}https://www.youtube.com/watch?v=znaqqES7w_U{% endyoutube %}
