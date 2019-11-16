@@ -24,4 +24,3 @@ Justo debajo de *Mi unidad* tienes la sección *Compartido conmigo*. Aquí se gu
 ¡Atención! Tanto si lo dejas en *Compartido conmigo*, como si lo añades
 a tu Drive ![Añadir a mi drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Google_Drive.png), si el propietario borra el archivo tú también lo perderás. La única forma de conservarlo con seguridad es hacer una copia del mismo. Desde ese momento serán dos archivos con historiales de edición distintos. Clica con el botón derecho sobre el archivo y *Hacer una copia*.
 
-{% youtube %}https://www.youtube.com/watch?v=CAH-k2qhDqM%26rel%3D0&t=0{% endyoutube %}
