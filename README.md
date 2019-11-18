@@ -23,7 +23,6 @@ En este curso aprenderás a:
     -   Presentaciones
     -   Formularios
     -   Hojas de Cálculo
-    -   Presentaciones
     -   Dibujos
     -   Mapas
 
