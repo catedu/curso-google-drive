@@ -41,4 +41,6 @@ correctamente.
 
 ![Hablando a Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Hablando_a_Documentos_de_Google.png)
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=neO9hulJYYo{% endyoutube %}
+-->

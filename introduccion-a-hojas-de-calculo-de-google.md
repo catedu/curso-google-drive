@@ -21,4 +21,6 @@ En el [primer módulo](creacion-y-gestion-de-archivos-en-google-drive.md) ya vim
 5.  **Celdas**. Cada intersección entre filas y columnas genera una celda. En estos espacios introduciremos los datos.
 6.  **Barra de hojas**. Puedes añadir hojas, gestionarlas o cambiar el orden de las mismas.
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=Tnt_ab7_b_Y{% endyoutube %}
+-->

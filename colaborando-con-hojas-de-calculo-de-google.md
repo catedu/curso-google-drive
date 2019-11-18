@@ -35,4 +35,6 @@ No olvides [utilizar el chat](colaborando-con-documentos-de-google.md).
 
 **¡Has llegado al final de este módulo!** No olvides tomarte un merecido descanso.
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=QZNtvJyMHDU{% endyoutube %}
+-->

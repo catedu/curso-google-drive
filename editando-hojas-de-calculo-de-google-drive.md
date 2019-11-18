@@ -34,4 +34,6 @@ Selecciona una de la fila o columna que marque el límite del rango que quieres 
 
 ![Inmovilizar filas y columnas](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Inmovilizar_filas_y_columnas.png)
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=O_ilw-2NrHk{% endyoutube %}
+-->

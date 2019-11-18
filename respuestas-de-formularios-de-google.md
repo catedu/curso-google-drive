@@ -32,4 +32,6 @@ Junto a !["ver respuestas en Hoja de Cálculo"](https://catedu.gitbooks.io/traba
 
 ¿Quieres añadir colaboradores para que editen el formulario, obtener complementos...? Clica sobre !["los tres puntos en vertical"](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/MenIOS.png), esta vez en la esquina superior derecha de la pantalla. Te aparecerá el menú que ves en la imagen de la derecha.
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=idLgIqufbZc{% endyoutube %}
+-->

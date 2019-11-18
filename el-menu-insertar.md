@@ -43,4 +43,6 @@ correspondiente.
 
 ![Generando un índice en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Generando_un_índice_en_Documentos_de_Google.png)
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=pmy8OmviJO8{% endyoutube %}
+-->

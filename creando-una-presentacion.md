@@ -34,4 +34,6 @@ Escribe en ella lo que necesites recordar en el momento de la presentación. ¡S
 
 ![Iniciar una presentación con notas del orador en Presentaciones de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Iniciar_una_presentación_con_notas_del_orador_en_Presentaciones_de_Google.png)
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=2TL2BpDQiXU{% endyoutube %}
+-->

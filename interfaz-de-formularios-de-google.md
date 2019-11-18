@@ -63,4 +63,6 @@ acceder a las siguientes opciones:
     
     ![Embeber formulario](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Embeber_formulario.png)
 
-    {% youtube %}https://www.youtube.com/watch?v=klCYOWFY83I{% endyoutube %}
+    <!--
+{% youtube %}https://www.youtube.com/watch?v=klCYOWFY83I{% endyoutube %}
+-->

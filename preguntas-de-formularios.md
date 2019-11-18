@@ -43,4 +43,6 @@ Presta atención a los botones bajo la edición de cada pregunta ![Opciones de c
 
 ¡Nada más! Ya sabes crear tu propio formulario.
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=-FjkY44390A{% endyoutube %}
+-->

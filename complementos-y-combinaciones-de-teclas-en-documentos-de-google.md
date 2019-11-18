@@ -15,4 +15,6 @@ Una vez añadido podrás acceder a él desde el menú **Complementos**. También
 Si con el tiempo y las horas de uso te vas convirtiendo en un experto, aprovecha el potencial de los atajos de teclado. Vienen reseñados a la
 derecha de cada opción en los distintos menús, pero puedes acceder a todas las combinaciones de teclas a través del menú **Ayuda** - **Combinaciones de teclas**, o también usando Ctrl+/.
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=IeNrYKwcXX8{% endyoutube %}
+-->

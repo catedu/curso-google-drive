@@ -43,4 +43,6 @@ En una capa que aún no tenga datos clica en *Importar*. Selcciona tu archivo .c
 
 ![Estilo por columna y acceso a datos](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Estilo_por_columna_y_acceso_a_datos_en_Google_Maps.png)
 
+<!--
 {% youtube %}https://www.youtube.com/watch?v=T98s0WQp7wo{% endyoutube %}
+-->
