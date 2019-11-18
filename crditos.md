@@ -8,5 +8,10 @@
 
 ISBN: 978-84-16501-31-1
 
+## Contribuyen
+
+{% GitHubContributors %}
+{% endGitHubContributors %}
+
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
 
