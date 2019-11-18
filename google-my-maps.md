@@ -4,7 +4,7 @@ Con Google My Maps puedes crear tus propios mapas añadiendo únicamente la info
 
 ## La interfaz
 
-![Interfaz de Google Maps](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Interfaz_de_Google_Maps.png)
+![Interfaz de Google Maps](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Interfaz_de_Google_Maps.png)
 
 * Edita el nombre del mapa y añade una descripción.
 * Añade una capa con datos que compartan algún criterio de homogeneidad. Posteriormente,el usuario podrá elegir si mostrar dichos datos u ocultarlos.
@@ -22,13 +22,13 @@ Con Google My Maps puedes crear tus propios mapas añadiendo únicamente la info
 
 Tenemos dos opciones:
 
-* Selecciona el botón ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Marcador_para_mapas.png) y clica después en el punto del mapa que quieras añadir. Quedará añadido en la capa que tengas seleccionada. Ahora puedes editar los datos de dicho punto (Nombre, descripción, icono y color del mismo y añadir fotos).
+* Selecciona el botón ![](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Marcador_para_mapas.png) y clica después en el punto del mapa que quieras añadir. Quedará añadido en la capa que tengas seleccionada. Ahora puedes editar los datos de dicho punto (Nombre, descripción, icono y color del mismo y añadir fotos).
 
 * Busca la ubicación y selecciona *+ Añadir al mapa*. De esta manera podrás elegir si quieres mostrar además los datos ya registrados en Google Maps.
 
-![Añadir lugar desde la búsqueda](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Añadir_lugar_desde_la_búsqueda_de_Google_Maps.png)
+![Añadir lugar desde la búsqueda](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Añadir_lugar_desde_la_búsqueda_de_Google_Maps.png)
 
-![Edición de ubicación](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Edición_de_ubicación_en_Google_Maps.png)
+![Edición de ubicación](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Edición_de_ubicación_en_Google_Maps.png)
 
 ## Añadiendo localizaciones de forma masiva
 
@@ -39,8 +39,8 @@ En una capa que aún no tenga datos clica en *Importar*. Selcciona tu archivo .c
 * Estilos individuales: elige un estilo para cada localización de manera independiente.
 * Estilo por columna de datos: agrupa tus localizaciones según su nombre, descripción o -si los has subido mediante archivo- elige una columna de tu tabla. Dicha tabla estará accesible y editable para ti en todo momento.
 
-![Subir csv](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Subir_csv_a_Google_Maps.png)
+![Subir csv](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Subir_csv_a_Google_Maps.png)
 
-![Estilo por columna y acceso a datos](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Estilo_por_columna_y_acceso_a_datos_en_Google_Maps.png)
+![Estilo por columna y acceso a datos](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Estilo_por_columna_y_acceso_a_datos_en_Google_Maps.png)
 
 {% youtube %}https://www.youtube.com/watch?v=T98s0WQp7wo{% endyoutube %}

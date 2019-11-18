@@ -8,7 +8,7 @@ Clica en *Obtener complementos...* y verás una ventana con con todos los comple
 
 Una vez añadido podrás acceder a él desde el menú **Complementos**. También podrás administrar tu colección, eliminando los que ya no te interesen.
 
-![Complementos de Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Complementos_de_Documentos_de_Google.png)
+![Complementos de Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Complementos_de_Documentos_de_Google.png)
 
 ### Combinaciones de teclas
 

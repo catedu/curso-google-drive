@@ -4,7 +4,7 @@
 
 Pero, si hago un cartel sin tener en cuenta el tamaño de papel, ¿qué pasa si quiero imprimirlo? Muy fácil. Pulsa Ctrl+p y en la ventana emergente selecciona *Ajustar a página* en elapartado de *Configuración*.
 
-![Imprimir dibujos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Imprimir_Dibujo_de_Google.svg)
+![Imprimir dibujos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Imprimir_Dibujo_de_Google.svg)
 
 ## ¿Quieres más?
 
@@ -12,7 +12,7 @@ En tu escritorio de Google Drive, clica en *Nuevo - Más - + Conectar* más apli
 
 La oferta es tan grande que lo mejor será que busques la aplicación idónea cuando te surjala necesidad.
 
-![Conectar aplicaciones a Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Conectar_aplicaciones_a_Google_Drive.svg)
+![Conectar aplicaciones a Google Drive](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Conectar_aplicaciones_a_Google_Drive.svg)
 
 ## **Has llegado al final de este curso de Trabajo Colaborativo con Google Drive**
 

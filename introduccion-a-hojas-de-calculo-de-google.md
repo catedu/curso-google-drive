@@ -1,6 +1,6 @@
 # Introducción a Hojas de Cálculo
 
-![Google Sheets.png](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/30px-Google_Sheets.png) Si habéis trabajado ya con hojas de cálculo, éste módulo os será fácil. Hojas de Cálculo de Google proporciona herramientas de nivel intermedio para el tratamiento de este tipo de archivos. Como en el resto de productos de Drive, el verdadero potencial está en la capacidad de colaboración que nos ofrece.
+![Google Sheets.png](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/30px-Google_Sheets.png) Si habéis trabajado ya con hojas de cálculo, éste módulo os será fácil. Hojas de Cálculo de Google proporciona herramientas de nivel intermedio para el tratamiento de este tipo de archivos. Como en el resto de productos de Drive, el verdadero potencial está en la capacidad de colaboración que nos ofrece.
 
 Las hojas de cálculo nos permiten gestionar, editar y analizar diferentes tipos de datos. Podrás organizar dichos datos a tu gusto para
 hacerlos más significativos, filtrarlos, realizar operaciones sobre ellos, aplicar funciones, mostrar gráficos que relacionen grupos de
@@ -10,7 +10,7 @@ datos... y mucho más.
 
 ## La interfaz de Hojas de Cálculo
 
-![Interfaz de Hojas de Cálculo de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Interfaz_de_Hojas_de_Cálculo_de_Google.png)
+![Interfaz de Hojas de Cálculo de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Interfaz_de_Hojas_de_Cálculo_de_Google.png)
 
 En el [primer módulo](creacion-y-gestion-de-archivos-en-google-drive.md) ya vimos algunos aspectos de la interfaz que son comunes a todos los productos de Google Drive. A continuación nos centraremos en los aspectos propios de Hojas de Cálculo.
 

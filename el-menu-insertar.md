@@ -11,18 +11,18 @@ directamente imágenes que pueden reutilizarse con modificaciones para fines com
 siguiente paso podremos incluso seleccionar el color predominante que queremos en nuestra imagen y el tipo (Cara, Fotografía, dibujo de
 líneas...).
 
-![Búsqueda de imagen en Documentos](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/imagenes-google-docs.png)
+![Búsqueda de imagen en Documentos](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/imagenes-google-docs.png)
 
 Clica sobre la imagen y accede a más herramientas de gran utilidad. Echa un ojo a la imagen de la derecha.
 
-![Opciones de edición de la imagen](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/opciones-de-la-imagen.png)
+![Opciones de edición de la imagen](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/opciones-de-la-imagen.png)
 
 ## Si no encuentras la imagen que quieres, ¡créala tú!
 
 La herramienta dibujo nos abre una ventana dentro del propio documento donde crear nuestra imagen desde cero o trabajar sobre imágenes ya
 existentes.
 
-![Dibujando en Google Docs](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/400px-Dibujando_en_Google_Docs.png)
+![Dibujando en Google Docs](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/400px-Dibujando_en_Google_Docs.png)
 
 ## Sácale partido a los *Caracteres especiales*
 
@@ -32,7 +32,7 @@ En tus Documentos tienes la posibilidad de utilizar caracteres de todo tipo como
 ofrece desde caracteres árabes hasta musicales de todas las épocas y culturas. ¿No encuentras el que quieres? Búscalo por palabra clave o
 dibújalo para Google lo reconozca. A continuación tienes unos cuantos ejemplos.
 
-![Caracteres especiales en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Caracteres_especiales_en_Documentos_de_Google.png)
+![Caracteres especiales en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Caracteres_especiales_en_Documentos_de_Google.png)
 
 ## Crea tu índice
 
@@ -41,6 +41,6 @@ escribiendo (Título 1, subtítulo...). Si has hecho esto en todo tu documento, 
 donde quieras que se inserte y clica en *Índice*. ¡Listo! Podrás acceder a cada apartado de tu documento clicando en el item del índice
 correspondiente.
 
-![Generando un índice en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Generando_un_índice_en_Documentos_de_Google.png)
+![Generando un índice en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Generando_un_índice_en_Documentos_de_Google.png)
 
 {% youtube %}https://www.youtube.com/watch?v=pmy8OmviJO8{% endyoutube %}

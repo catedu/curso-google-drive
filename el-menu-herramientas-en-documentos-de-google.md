@@ -16,7 +16,7 @@ Otro menú muy potente es el de **Herramientas**. Desde él podremos:
 
 ### Ortografía...
 
-![Comprobando ortografía en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Comprobando_ortografía_en_Documentos_de_Google.png)
+![Comprobando ortografía en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Comprobando_ortografía_en_Documentos_de_Google.png)
 
 Repasa la ortografía de tu documento en diferentes idiomas gracias a esta sencilla herramienta. Sustituye las palabras por las propuestas por el corrector, ignora la sugerencia de corrección o -si está bien escrita- añádela a tu diccionario para que no la vuelva a dar por mala.
 
@@ -24,7 +24,7 @@ Repasa la ortografía de tu documento en diferentes idiomas gracias a esta senci
 
 ¿Quieres saber más sobre un personaje reseñado en tu texto? No pierdas el tiempo abriendo otra pestaña para iniciar una búsqueda. Selecciona el texto y clica en **Investigar** (Ctrl+Alt+Mayus+I). A la derecha aparecerá información relacionada con tu búsqueda. Filtra además tu búsqueda por imágenes, citas o busca dentro de tus documentos personales.
 
-![Investigando en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Investigando_en_Documentos_de_Google.png)
+![Investigando en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Investigando_en_Documentos_de_Google.png)
 
 ### Definir
 
@@ -39,6 +39,6 @@ Presta atención al ruido de tu entorno y al micrófono que utilizas.
 Necesitas un ambiente silencioso para que esta opción funcione
 correctamente.
 
-![Hablando a Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Hablando_a_Documentos_de_Google.png)
+![Hablando a Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Hablando_a_Documentos_de_Google.png)
 
 {% youtube %}https://www.youtube.com/watch?v=neO9hulJYYo{% endyoutube %}

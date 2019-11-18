@@ -1,9 +1,9 @@
 # Interfaz de Formularios de Google
 
 
-Esta aplicación es bastante más sencilla. Podremos realizar nuestros propios formularios para recoger datos de una forma muy eficaz. Hace poco Google ha rediseñado la interfaz de Formularios. En este curso trabajaremos con la nueva para que esté actualizado el máximo tiempo posible. No obstante, una vez sepas trabajar con la aplicación, las diferencias entre un diseño u otro no son significativas. Por el momento, puedes cambiar de una a otra fácilmente clicando en *Probar la nueva versión de Formularios de Google*, justo debajo de la barra de herramientas, o clicando en ![Volver a la versión anterior de Google Forms](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Volver_a_la_versi%C3%B3n_anterior_de_Google_Forms.png) en la esquina inferior izquierda de la nueva interfaz.
+Esta aplicación es bastante más sencilla. Podremos realizar nuestros propios formularios para recoger datos de una forma muy eficaz. Hace poco Google ha rediseñado la interfaz de Formularios. En este curso trabajaremos con la nueva para que esté actualizado el máximo tiempo posible. No obstante, una vez sepas trabajar con la aplicación, las diferencias entre un diseño u otro no son significativas. Por el momento, puedes cambiar de una a otra fácilmente clicando en *Probar la nueva versión de Formularios de Google*, justo debajo de la barra de herramientas, o clicando en ![Volver a la versión anterior de Google Forms](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Volver_a_la_versi%C3%B3n_anterior_de_Google_Forms.png) en la esquina inferior izquierda de la nueva interfaz.
 
-![Formularios de google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Formularios_de_google.png)
+![Formularios de google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Formularios_de_google.png)
 
 1.  Título del archivo Formulario.
 2.  Acceso a los complementos instalados.
@@ -23,7 +23,7 @@ Esta aplicación es bastante más sencilla. Podremos realizar nuestros propios f
 13. Título y descripción del cuestionario.
 14. Ejemplo de pregunta de respuesta corta.
 
-## Configura tu formulario ![Rueda de configuración](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/18px-Settings-work-tool.svg.png)
+## Configura tu formulario ![Rueda de configuración](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/18px-Settings-work-tool.svg.png)
 
 Clicando en la ruleta accederás a las opciones que puedes ver en la siguiente imagen. Piensa bien para qué estás haciendo el cuestionario. Según el propósito del mismo, hay que tener cuidado con las casillas que activas.
 -   ¿Quieres hacerles una prueba sencilla de conocimientos a tus
@@ -35,7 +35,7 @@ Clicando en la ruleta accederás a las opciones que puedes ver en la siguiente i
     vistos por el resto de participantes? NO marques la casilla *Ver un
     resumen de las respuestas*.
 
-![Configuración del formulario](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Configuración_del_formulario.png)
+![Configuración del formulario](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Configuración_del_formulario.png)
 
 ## Envía y publica tu formulario
 
@@ -57,10 +57,10 @@ acceder a las siguientes opciones:
 -   Utiliza también los botones sociales para dar difusión a
     tu encuesta.
 
-    ![Enviar formulario por mail](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Enviar_formulario_por_mail.png)
+    ![Enviar formulario por mail](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Enviar_formulario_por_mail.png)
     
-    ![Enviar formulario mediante enlace](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Enviar_formulario_mediante_enlace.png)
+    ![Enviar formulario mediante enlace](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Enviar_formulario_mediante_enlace.png)
     
-    ![Embeber formulario](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Embeber_formulario.png)
+    ![Embeber formulario](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Embeber_formulario.png)
 
     {% youtube %}https://www.youtube.com/watch?v=klCYOWFY83I{% endyoutube %}

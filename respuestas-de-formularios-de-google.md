@@ -5,9 +5,9 @@ hoja de cálculo. Se nos abre pues un sin fin de posibilidades. ¿Quieres saber 
 
 ## Vista resumen, individual... ¿se aceptan respuestas?
 
-En la sección **Respuestas** podremos ver un **resumen** de las respuestas recibidas hasta el momento. Éste será el que se muestre a todos los encuestados al enviar el formulario, si en la configuración ![Rueda deconfiguración](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/18px-Settings-work-tool.svg.png) hemos seleccionado *Ver un resumen de las respuestas*.
+En la sección **Respuestas** podremos ver un **resumen** de las respuestas recibidas hasta el momento. Éste será el que se muestre a todos los encuestados al enviar el formulario, si en la configuración ![Rueda deconfiguración](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/18px-Settings-work-tool.svg.png) hemos seleccionado *Ver un resumen de las respuestas*.
 
-![Opciones de las respuestas en formularios de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Opciones_de_las_respuestas_en_formularios_de_Google.png)
+![Opciones de las respuestas en formularios de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Opciones_de_las_respuestas_en_formularios_de_Google.png)
 
 También podrás ver las respuestas de cada encuestado (**individual**) y
 cerrar el cuestionario para no recibir más repuestas deslizando el botón
@@ -15,21 +15,21 @@ cerrar el cuestionario para no recibir más repuestas deslizando el botón
 
 ## Ver respuestas en hoja de cálculo
 
-En !["ver respuestas en Hoja de Cálculo"](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/18px-Ver_respuestas_en_Hoja_de_C%C3%A1lculo.png) podrás ver las respuestas en la hoja de cálculo. Si no has seleccionado aún un destino para las respuestas podrás hacerlo ahora. Se creará en tu Drive una hoja de cálculo con el mismo título del formulario seguido de *(respuestas)*. A partir de este momento cuentas con la potencia que ofrecen las hojas de cálculo en cuanto a gestión de datos. En el [siguiente módulo](introduccion-a-hojas-de-calculo-de-google.md) profundizaremos en este tema.
+En !["ver respuestas en Hoja de Cálculo"](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/18px-Ver_respuestas_en_Hoja_de_C%C3%A1lculo.png) podrás ver las respuestas en la hoja de cálculo. Si no has seleccionado aún un destino para las respuestas podrás hacerlo ahora. Se creará en tu Drive una hoja de cálculo con el mismo título del formulario seguido de *(respuestas)*. A partir de este momento cuentas con la potencia que ofrecen las hojas de cálculo en cuanto a gestión de datos. En el [siguiente módulo](introduccion-a-hojas-de-calculo-de-google.md) profundizaremos en este tema.
 
-![Respuestas en Hoja de Cálculo](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Respuestas_en_Hoja_de_Cálculo.png)
+![Respuestas en Hoja de Cálculo](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Respuestas_en_Hoja_de_Cálculo.png)
 
 ## Más opciones
 
-![Más opciones de Google Forms](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Más_opciones_de_Google_Forms.png)
+![Más opciones de Google Forms](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Más_opciones_de_Google_Forms.png)
 
-Junto a !["ver respuestas en Hoja de Cálculo"](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/18px-Ver_respuestas_en_Hoja_de_Calculo.png) puedes acceder a más opciones !["los tres juntos envertical"](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/MenIOS.png). Éstas son:
+Junto a !["ver respuestas en Hoja de Cálculo"](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/18px-Ver_respuestas_en_Hoja_de_Calculo.png) puedes acceder a más opciones !["los tres juntos envertical"](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/MenIOS.png). Éstas son:
 -   Recibir notificaciones por correo electrónico de respuestas nuevas
 -   Seleccionar destino de las respuestas
 -   Desenlazar formulario
 -   Descargar respuestas (.csv)
 -   Eliminar todas las respuestas
 
-¿Quieres añadir colaboradores para que editen el formulario, obtener complementos...? Clica sobre !["los tres puntos en vertical"](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/MenIOS.png), esta vez en la esquina superior derecha de la pantalla. Te aparecerá el menú que ves en la imagen de la derecha.
+¿Quieres añadir colaboradores para que editen el formulario, obtener complementos...? Clica sobre !["los tres puntos en vertical"](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/MenIOS.png), esta vez en la esquina superior derecha de la pantalla. Te aparecerá el menú que ves en la imagen de la derecha.
 
 {% youtube %}https://www.youtube.com/watch?v=idLgIqufbZc{% endyoutube %}
