@@ -40,5 +40,6 @@
 
 ---
 
+* [Anexo: Seguridad y privacidad de la cuenta GSuite]
 * [Créditos](crditos.md)
 
