@@ -40,6 +40,6 @@
 
 ---
 
-* [Anexo: Seguridad y privacidad de la cuenta GSuite]
+* [Anexo: Seguridad y privacidad de la cuenta GSuite](anexo-seguridad-y-privacidad-de-la-cuenta-gsuite.md)
 * [Créditos](crditos.md)
 
