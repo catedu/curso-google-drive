@@ -11,9 +11,9 @@ podremos seleccionar la carpeta donde queremos guardarlo. Si
 seleccionamos ninguna, nuestro archivo se guarda automáticamente en "Mi
 unidad".
 
-![Nuevo en Google Drive](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Nuevo_en_Google_Drive.png)
+![Nuevo en Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Nuevo_en_Google_Drive.png)
 
-![Cambiando título de un documento Google Drive](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Cambiando_título_de_un_documento_Google_Drive.png)
+![Cambiando título de un documento Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Cambiando_título_de_un_documento_Google_Drive.png)
 
 ## Subiendo documentos
 
@@ -31,7 +31,7 @@ Puedes subir tus archivos clicando en **Nuevo** y **Subir archivos** o
 **Subir carpeta**. Otra opción es **arrastrar** tus archivos sobre la
 ventana del navegador donde tengas abierta tu unidad de Drive.
 
-![Subir archivos y carpetas arrastrando en Google Drive](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Subir_arrastrando_a_Drive.svg)
+![Subir archivos y carpetas arrastrando en Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Subir_arrastrando_a_Drive.svg)
 
 ## Editando documentos subidos
 
@@ -43,9 +43,9 @@ posteriormente "Abrir con". Si seleccionas el programa propio de Google
 podrás editar utilizando todas opciones que proporciona Google. También
 se puede "Abrir con" desde la previsualización de los archivos.
 
-![Documento no editable con Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Documento_no_editable_con_Documentos_de_Google.png)
+![Documento no editable con Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Documento_no_editable_con_Documentos_de_Google.png)
 
-![Documento editable con Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Documento_editable_con_Documentos_de_Google.png)
+![Documento editable con Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Documento_editable_con_Documentos_de_Google.png)
 
 
 Cuando ganes experiencia comprobarás que tienes una oferta enorme de

@@ -1,6 +1,6 @@
 # Colaborando en Documentos
 
-En el [primer módulo](compartir-y-colaborar.md) del curso vimos cómo compartir archivos en Google Drive. También puedes compartir el archivo estando ya dentro del documento, clicando en ![](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Boton_compartir.png) situado en la esquina superior derecha. A continuación profundizaremos en las herramientas de edición colaborativa dentro de Documentos.
+En el [primer módulo](compartir-y-colaborar.md) del curso vimos cómo compartir archivos en Google Drive. También puedes compartir el archivo estando ya dentro del documento, clicando en ![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Boton_compartir.png) situado en la esquina superior derecha. A continuación profundizaremos en las herramientas de edición colaborativa dentro de Documentos.
 
 ## Comentar, sugerir y editar
 
@@ -12,9 +12,9 @@ incluso resolverla si procede, eliminando todos los comentarios realizados sobre
 están de acuerdo sólo tendrán que aceptarla y tu texto sustituirá automáticamente al anterior. Para hacer esto cambia de modo **edición**
 a modo **sugerencias**, selecciona el texto o la imagen en cuestión y comienza a escribir tu aportación.
 
-![Comentando en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Comentando_en_Documentos_de_Google.png)
+![Comentando en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Comentando_en_Documentos_de_Google.png)
 
-![Sugiriendo en Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Sugiriendo_en_Documentos_de_Google.png)
+![Sugiriendo en Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Sugiriendo_en_Documentos_de_Google.png)
 
 Si varias personas están editando un documento al mismo tiempo, los cambios podrán verse en las pantallas de todos los colaboradores en tiempo real. El cursor coloreado identifica a cada colaborador. Podrás chatear con ellos clicando sobre sus avatares para un comunicación más fluida.
 
@@ -29,11 +29,11 @@ identifica a cada uno- las modificaciones que ha realizado en esa revisión.
 
 ## Descarga, publica y comparte
 
-![Descargando Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Descargando_Documentos_de_Google.png)
+![Descargando Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Descargando_Documentos_de_Google.png)
 
 Si el documento ya está listo, puedes descargarlo en multitud de formatos e incluso publicarlo en la web mediante un enlace o embebido en tu blog. También puedes enviarlo como archivo adjunto a un mail desde la propia interfaz de Documentos. Todas estas opciones están disponibles desde el menú Archivo.
 
-Y por último, ¿ves que tu compañero está editando en ese momento y quieres decirle algo? Aprovecha el chat integrado. Clica sobre el icono ![Icono de chat](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Icono_de_chat.png) junto a los avatares de los participantes.
+Y por último, ¿ves que tu compañero está editando en ese momento y quieres decirle algo? Aprovecha el chat integrado. Clica sobre el icono ![Icono de chat](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Icono_de_chat.png) junto a los avatares de los participantes.
 
 **¡Has llegado al final de este módulo!** No olvides tomarte un merecido descanso.
 

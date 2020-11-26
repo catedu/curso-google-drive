@@ -9,14 +9,14 @@ Google tiene que verificar la cuenta, así que nos pedirá un número de teléfo
 
 Una vez creada, ya tenemos acceso a Gmail y a Google Drive, entre otros servicios. Con nuestra sesión iniciada y estando en www.google.es, por ejemplo, podremos acceder de forma rápida a todas nuestras aplicaciones.
 
-![Accediendo a GoogleDrive](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/400px-Lanzador_de_Aplicaciones_de_Google.png)
+![Accediendo a GoogleDrive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/400px-Lanzador_de_Aplicaciones_de_Google.png)
 
 ### La interfaz de Google Drive
 
 En la siguiente imagen podéis ver los principales botones de la interfaz
 junto con la descripción de las funciones menos intuitivas.
 
-![](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Entorno_Google_Drive.svg)
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Entorno_Google_Drive.svg)
 
 Una panorámica del entorno de trabajo en Google Drive
 

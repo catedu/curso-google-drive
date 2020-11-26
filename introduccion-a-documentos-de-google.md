@@ -4,7 +4,7 @@ En el [primer módulo](creacion-y-gestion-de-archivos-en-google-driver.md) ya tu
 
 ## Primeros pasos
 
-![Configuración página Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Configuración_página_Documentos_de_Google.png)
+![Configuración página Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Configuración_página_Documentos_de_Google.png)
 
 Clica en Archivo - Configuración de página. En este menú podrás
 establecer la orientación, tamaño, color de la página y márgenes.
@@ -17,7 +17,7 @@ y, manteniendo pulsado el botón izquierdo del ratón, arrástrala donde
 quieras. Dale formato a esa frase o a todo el texto si quieres
 utilizando los botones de la barra de herramientas.
 
-![Barra de herramientas de Documentos de Google](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Barra_de_herramientas_de_Documentos_de_Google.png)
+![Barra de herramientas de Documentos de Google](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Barra_de_herramientas_de_Documentos_de_Google.png)
 
 ## Un par de consejos
 
@@ -33,11 +33,11 @@ derecha de la etiqueta *Título, texto normal*... y dale a _"Actualizar
 usarlas en tus documentos? Cuando vayas a seleccionar la fuente que
 desees, baja hasta el final de la lista y clica en *Más fuentes*.
 
-![Asignando formato para los títulos](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Asignando_formato_para_títulos.png)
+![Asignando formato para los títulos](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Asignando_formato_para_títulos.png)
 
-![Seleccionando tipo de texto](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Seleccionar_tipo_de_texto.png)
+![Seleccionando tipo de texto](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Seleccionar_tipo_de_texto.png)
 
-![Añadiendo fuentes](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/images/Añadir_fuentes.png)
+![Añadiendo fuentes](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Añadir_fuentes.png)
 
 ## Imprimir
 
