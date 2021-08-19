@@ -31,7 +31,7 @@ Puedes subir tus archivos clicando en **Nuevo** y **Subir archivos** o
 **Subir carpeta**. Otra opción es **arrastrar** tus archivos sobre la
 ventana del navegador donde tengas abierta tu unidad de Drive.
 
-![Subir archivos y carpetas arrastrando en Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Subir_arrastrando_a_Drive.svg)
+![Subir archivos y carpetas arrastrando en Google Drive](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Subir_arrastrando_a_Drive.png)
 
 ## Editando documentos subidos
 
