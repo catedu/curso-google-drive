@@ -16,7 +16,7 @@ Una vez creada, ya tenemos acceso a Gmail y a Google Drive, entre otros servicio
 En la siguiente imagen podéis ver los principales botones de la interfaz
 junto con la descripción de las funciones menos intuitivas.
 
-![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Entorno_Google_Drive.svg)
+![](https://raw.githubusercontent.com/catedu/curso-google-drive/master/images/Entorno_Google_Drive.png)
 
 Una panorámica del entorno de trabajo en Google Drive
 
